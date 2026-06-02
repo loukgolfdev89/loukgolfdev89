@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Mobile Developer** and **Freelance Full-Stack Developer** focused on building production-ready mobile and backend systems with **Flutter**, **Kotlin**, **Swift**, **Java**, **Go**, and modern cloud tooling. Experienced in end-to-end delivery across app development, API integration, CI/CD, cloud infrastructure, and device-connected solutions.
+I'm a **Senior Mobile Developer** and **Freelance Full-Stack Developer** focused on building production-ready mobile and backend systems with **Flutter**, **Kotlin**, **Swift**, **Java**, **Go**, **JavaScript/TypeScript**, **Python**, and modern cloud tooling. Experienced in end-to-end delivery across app development, API integration, CI/CD, cloud infrastructure, and device-connected solutions.
 
 - 💼 Building mobile, backend, and integration solutions for client and product teams
 - 📱 Specialized in **Flutter**, **Native Android (Kotlin/Java)**, and **iOS (Swift)**
