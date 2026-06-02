@@ -128,7 +128,7 @@ I'm a **Senior Mobile Developer** skilled in **Flutter**, **Kotlin**, **Swift**,
 - 🐕 **Shiba Inu Fan** - Love dogs, especially Shiba Inu!
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Shiba_inu_taiki.jpg" alt="Shiba Inu" width="200"/>
+  <img src="./assets/shiba-inu-1.png" alt="Shiba Inu" width="200"/>
   <p><i>"Shiba Inu - A loyal companion!"</i></p>
 </div>
 
