@@ -22,12 +22,12 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Mobile Developer** skilled in **Flutter**, **Kotlin**, **Swift**, and **JavaScript/TypeScript**. Experienced in building cross-platform mobile applications with seamless RESTful API integration, efficient state management, and CI/CD development workflows.
+I'm a **Senior Mobile Developer** and **Freelance Full-Stack Developer** focused on building production-ready mobile and backend systems with **Flutter**, **Kotlin**, **Swift**, **Java**, **Go**, and modern cloud tooling. Experienced in end-to-end delivery across app development, API integration, CI/CD, cloud infrastructure, and device-connected solutions.
 
-- 💼 **Senior Mobile Developer** & **Freelance Full-Stack Developer**
-- 📱 Specialized in **Flutter**, **Native Android (Kotlin)**, and **iOS (Swift)**
-- 🔌 Proficient in **RESTful API integration** and **State Management** (Riverpod, GetX)
-- 🚀 Experienced in **CI/CD pipelines** and **DevOps** practices
+- 💼 Building mobile, backend, and integration solutions for client and product teams
+- 📱 Specialized in **Flutter**, **Native Android (Kotlin/Java)**, and **iOS (Swift)**
+- 🔌 Experienced with **RESTful APIs**, **state management**, and hardware integrations like **QR**, **smart card readers**, and **thermal printers**
+- ☁️ Working across **AWS**, **GCP**, **Firebase**, **Docker**, **GitHub Actions**, **GitLab Runner**, and **Jenkins**
 - 🎓 B.E. in **Computer Engineering** from Suranaree University of Technology
 
 ---
