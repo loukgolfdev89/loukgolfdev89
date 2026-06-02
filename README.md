@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Apichate Yatra 👋</h1>
 
-<h3 align="center">Senior Mobile Developer | Freelance Full-Stack Developer</h3>
+<h3 align="center">Senior Software Development Engineer | Freelance Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apichate-yatra-6ba036219/">
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Mobile Developer** and **Freelance Full-Stack Developer** focused on building production-ready mobile and backend systems with **Flutter**, **Kotlin**, **Swift**, **Java**, **Go**, **JavaScript/TypeScript**, **Python**, and modern cloud tooling. Experienced in end-to-end delivery across app development, API integration, CI/CD, cloud infrastructure, and device-connected solutions.
+I'm a **Senior Software Development Engineer** and **Freelance Full-Stack Engineer** focused on building production-ready mobile and backend systems with **Flutter**, **Kotlin**, **Swift**, **Java**, **Go**, **JavaScript/TypeScript**, **Python**, and modern cloud tooling. Experienced in end-to-end delivery across app development, API integration, CI/CD, cloud infrastructure, and device-connected solutions.
 
 - 💼 Building mobile, backend, and integration solutions for client and product teams
 - 📱 Specialized in **Flutter**, **Native Android (Kotlin/Java)**, and **iOS (Swift)**
