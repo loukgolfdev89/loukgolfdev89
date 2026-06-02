@@ -9,13 +9,13 @@
   <a href="mailto:apichate.yatra@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/apichate-y">
+  <a href="https://github.com/loukgolfdev89">
     <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apichate-y&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=loukgolfdev89&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
@@ -101,12 +101,10 @@ I'm a **Senior Mobile Developer** skilled in **Flutter**, **Kotlin**, **Swift**,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apichate-y&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apichate-y&theme=algolia&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apichate-y&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=loukgolfdev89&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=loukgolfdev89&theme=algolia&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loukgolfdev89&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -138,7 +136,7 @@ I'm a **Senior Mobile Developer** skilled in **Flutter**, **Kotlin**, **Swift**,
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apichate-y&theme=algolia&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loukgolfdev89&theme=algolia&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -151,7 +149,7 @@ I'm always interested in hearing about new opportunities, freelance projects, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apichate-yatra-6ba036219/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apichate.yatra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apichate-y)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loukgolfdev89)
 
 </div>
 
