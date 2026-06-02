@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Apichate Yatra 👋</h1>
 
-<h3 align="center">Senior Mobile Developer | Full-Stack Developer | Freelance Developer</h3>
+<h3 align="center">Senior Mobile Developer | Freelance Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apichate-yatra-6ba036219/">
