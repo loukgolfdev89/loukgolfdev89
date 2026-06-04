@@ -115,7 +115,7 @@ I'm a **Senior Software Development Engineer** and **Freelance Full-Stack Engine
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=loukgolfdev89&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=loukgolfdev89&theme=algolia&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
   <br />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loukgolfdev89&theme=algolia" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loukgolfdev89&amp;theme=algolia" alt="GitHub Streak" /></a>
 </div>
 
 ---
